@@ -1,7 +1,6 @@
 # Google Store Customer Predictions
 
-
-### Install
+# Install
 
 This project requires **Python 3.6** and the following Python libraries installed:
 
