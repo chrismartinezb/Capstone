@@ -1,4 +1,4 @@
-# Google Store Customer Predictions
+# Google Store Customer Revenue Predictions
 
 This project is based on the Google Analytics Customer Revenue Prediction competition detailed here: https://www.kaggle.com/c/ga-customer-revenue-prediction 
 
