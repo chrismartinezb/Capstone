@@ -7,6 +7,8 @@ The goal of the competition is to demonstrate how important is machine learning 
 Please check this document for a more detailed introduction to the project:
 
 [Proposal](https://github.com/chrismartinezb/Capstone/blob/master/Capstone%20proposal.pdf)
+
+
 [Report](https://github.com/chrismartinezb/Capstone/blob/master/Final_Report.pdf)
 
 # Install
